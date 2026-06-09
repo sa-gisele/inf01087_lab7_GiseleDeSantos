@@ -1,1 +1,4 @@
-# inf01087_lab7_GiseleDeSantos
+# Laboratório de GitHub
+Nome: Gisele De Santos
+Curso: Ciência da Computação
+Disciplina: INF01087
